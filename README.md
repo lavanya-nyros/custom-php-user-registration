@@ -4,6 +4,7 @@ custom-php-user-registration
 
 
 1. INSTALLATION
+
 ******************************************
 
 Edit the file db_config.php in the includes folder and update the configuration information (with your host name, db username, db password ) 
@@ -33,6 +34,7 @@ To create 'Users' Table: Uncomment the below block in the table.php file.
 
 
 2. ABOUT THIS APPLICATION
+
 ******************************************
 
 This is a PHP application that allows you to:
@@ -41,6 +43,7 @@ Create User Accounts by filling up the Registration form (with Captcha + JQuery 
 
 
 3. REQUIREMENTS
+
 ******************************************
 
 You must have PHP 5.0 or greater installed.
@@ -49,6 +52,7 @@ CURL must be enabled.i.e., uncomment extension=php_curl.dll in php.ini file in x
 
 
 4. WHAT THIS APPLICATION CONTAINS
+
 ******************************************
 
 Below is a list of files released as part of this build.
@@ -73,6 +77,7 @@ font/Anorexia.ttf - font used for captcha.
 
 
 5. USAGE OF FACEBOOK CONNECT
+
 ******************************************
 
 
