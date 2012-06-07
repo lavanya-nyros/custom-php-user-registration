@@ -124,6 +124,7 @@ In order to keep us nimble and allow us to bring you new functionality, without
 
 
 
+
 <img style="max-width:100%;" src="https://github.com/lavanya-nyros/custom-php-user-registration/raw/master/screenshots/registration.JPG
 " alt="signup" title="signup">
 
